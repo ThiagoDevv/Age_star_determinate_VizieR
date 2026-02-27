@@ -53,8 +53,3 @@ A abstração matemática do algoritmo Random Forest permitiu extrair o peso de 
 * **Manipulação de Dados:** `pandas`, `numpy`
 * **Visualização:** `matplotlib`, `seaborn`
 * **Machine Learning:** `scikit-learn` (`LinearRegression`, `DecisionTreeRegressor`, `RandomForestRegressor`, `train_test_split`, métricas de erro)
-
-## 🚀 Como Executar o Projeto
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o notebook `VizieR_age.ipynb` em sua IDE de preferência (Jupyter Notebook, VS Code, Google Colab).
